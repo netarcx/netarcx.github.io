@@ -1,0 +1,62 @@
+.version.district_office /* version checker */
+{
+	color: #000016;
+	background-color: #F074A3;
+}
+
+.html
+{
+	background-color: #3C4049;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 438px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u305
+{
+	z-index: 3;
+	width: 90px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -36px;
+	left: -100px;
+}
+
+#u303
+{
+	z-index: 2;
+	width: 919px;
+	min-height: 518px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 20px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

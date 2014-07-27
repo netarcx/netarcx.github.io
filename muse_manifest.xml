@@ -1,0 +1,42 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1406474352273">
+  <folder name="css">
+    <file name="site_global.css" crc="475048684"/>
+    <file name="portfolio.css" crc="3973826945" ref="portfolio"/>
+    <file name="index.css" crc="3784275278" ref="index"/>
+    <file name="district-office.css" crc="384857251" ref="district-office"/>
+    <file name="computer-build.css" crc="3973826945" ref="computer-build"/>
+    <file name="projects.css" crc="3973826945" ref="projects"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4245411419" ref="phone>index:index:projects:computer-build:portfolio:district-office"/>
+    <file name="museutils.js" crc="353204447" ref="phone>index:index:projects:computer-build:portfolio:district-office"/>
+    <file name="jquery.watch.js" crc="3923049248" ref="phone>index:index:projects:computer-build:portfolio:district-office"/>
+    <file name="jquery.musemenu.js" crc="4076024383" ref="index"/>
+    <file name="webpro.js" crc="317917375" ref="index"/>
+    <file name="musewpslideshow.js" crc="177288662" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="524248676" ref="index"/>
+    <file name="touchswipe.js" crc="367691663" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:projects:computer-build:portfolio:district-office"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="276200145" ref="index:district-office"/>
+    <file name="u221-4.png" crc="4200587909" ref="index"/>
+    <file name="u223-7.png" crc="4277933943" ref="index"/>
+    <file name="0b30qtt-crop-u240.jpg" crc="3801877650" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="xfdzpbv.jpg" crc="113046054" ref="index"/>
+    <file name="f5rtqyt-crop-u242.jpg" crc="4230233535" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3799601395" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4240347073" mt="1406471643481" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3814790678" mt="1406474351390" redirect="true"/>
+  <file name="projects.html" crc="3865642030" mt="1406471643471" redirect="false"/>
+  <file name="computer-build.html" crc="4104608990" mt="1406471643474" redirect="false"/>
+  <file name="portfolio.html" crc="4222532336" mt="1406471643475" redirect="false"/>
+  <file name="district-office.html" crc="4111186790" mt="1406474351011" redirect="true"/>
+</manifest>
